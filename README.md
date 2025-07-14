@@ -6,7 +6,6 @@ BookSage is a smart book recommender app that uses **semantic search** and **emo
 
 ## 🖼 Screenshot
 
-> 📷 Upload your app screenshot as `screenshot.png` in the root folder.
 
 ![App Screenshot](screenshot.png)
 
@@ -54,4 +53,3 @@ BookSage/
 ├── sentiment-analysis.ipynb     # Sentiment classification (optional)
 ├── text-classification.ipynb    # Genre classification (optional)
 ├── vector-search.ipynb          # Embedding + vector search trials
-│```
