@@ -1,0 +1,12 @@
+xgradio
+pandas
+numpy
+python-dotenv
+langchain
+langchain-community
+langchain-chroma
+sentence-transformers
+transformers
+huggingface-hub
+chromadb
+openai
